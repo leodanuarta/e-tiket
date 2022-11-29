@@ -1,0 +1,27 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box{
+  padding: 10px 20px;
+}
+
+.title{
+  margin: 40px 10px;
+}
+
+.e-tiket{
+  font-weight: 1000;
+  font-size: 18px;
+}
+
+.pesawat{
+  margin-top: 10px;
+}
+
+.bandara{
+  margin-left: 70px;
+}
+
+
+
